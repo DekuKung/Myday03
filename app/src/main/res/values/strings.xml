@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myday03</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Android Alert Dialog</string>
+</resources>
